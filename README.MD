@@ -12,6 +12,12 @@
 - 评论弹窗：应用市场评价引导
 - AgentKit：展示/隐藏智能体面板（如接入 AgentKitManager）
 
+如需联网能力:
+
+https://github.com/ArenaMatrix/ArenaEngine
+- 适配 HarmonyOS ArkTS，方便开发者开发鸿蒙原生联机应用
+- 适配 Cocos 等游戏引擎，可快速开发鸿蒙联机竞技游戏
+
 ---
 
 ## 1. 运行环境与依赖
